@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+
+<head>
+<title>EVENTS</title>
+<link rel="icon"href="img/date.png">
+</head>
+
+<body bgcolor="grey"style="color: white;">
+<h1 style="text-align: center;">UPCOMING EVENTS</h1>
+
+<h2 style="text-align: center;"> Dont miss any of your important events.stay tuned 📅</h2>
+
+<hr>
+<p>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis molestias unde reiciendis possimus quasi officiis, aperiam maiores animi. Iusto, nobis vitae. Sit officia blanditiis possimus hic ipsam repellat commodi aliquid assumenda, est libero cum odio et aspernatur tempora! Perferendis facilis quibusdam nisi eos a quam earum incidunt officiis vitae, voluptates necessitatibus asperiores temporibus explicabo laborum blanditiis tempora consectetur corrupti? Possimus ea, amet quibusdam nesciunt voluptates ducimus dolores. Delectus tempore commodi dolores nisi culpa suscipit, nulla maxime, aut non odio quia unde illum enim odit vitae eum. Architecto commodi quidem esse dolores exercitationem debitis sint. ipsum dolor sit amet consectetur adipisicing elit. In aperiam debitis expedita laudantium, reiciendis mollitia sint.
+</p>
+<center>
+<img src  ="img/event1.png">
+<h1>PHOTO GALLERY</h1>
+<h2>FREE ENTRY|FREE FOODS|PETS ARE NOT ALLOWED</h2>
+<p>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum mollitia facere repellendus! Doloremque laborum unde voluptatum perspiciatis aliquam. Laudantium, aliquid nostrum. Atque non autem dolorem at, ut, architecto et sapiente quod aliquam, quis consequatur. Eius quidem omnis necessitatibus inventore incidunt quo expedita repellendus, tempora cum magni. Exercitationem quaerat illum repudiandae?
+</p>
+</center>
+<center>
+<img src="img/event2.png">
+<h1>
+<a href="https://www.ajio.com/?gad_source=1&gclid=CjwKCAiAloavBhBOEiwAbtAJO2SYOvnu5ZhGuCXHNLTXPiIepUdJtETDxhKSP9pF-U04fe-1VFijuxoCu8sQAvD_BwE">FASHION STORE</a >
+</h1>
+<p>
+    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repellat optio temporibus deserunt quos asperiores accusantium, facilis voluptas fuga fugit, veniam ipsa, vitae voluptatem! Molestias ea hic ab voluptas soluta similique quaerat maxime sint quo exercitationem nemo minima aliquam quam sequi eum placeat et, accusantium autem in quidem. Deleniti, aut nisi!
+</p>
+</center>
+<hr>
+<h1 style="text-align: center;">CONTACTUS</h1>
+<h2 style="text-align: center;">+91 9789253509,venu@gmail.com</h2>
+<p style="text-align: center;">
+    9th st kuduvancherry chennai
+</p>
+
+</body>
+
+
+</html>
